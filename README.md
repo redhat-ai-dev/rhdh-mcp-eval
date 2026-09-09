@@ -1,5 +1,8 @@
 # RHDH MCP Evaluation
 
+> [!WARNING]
+> This repository has been retired and will no longer be maintained. It has been moved to [redhat-developer/rhdh-mcp-eval](https://github.com/redhat-developer/rhdh-mcp-eval).
+
 This branch contains the evaluation resources for **RHDH 1.10.2**, covering the MCP tool-calling capabilities of Red Hat Developer Hub / Backstage MCP tools from [`rhdh-plugins/workspaces/mcp-integrations`](https://github.com/redhat-developer/rhdh-plugins/tree/main/workspaces/mcp-integrations).
 
 **Canonical repo:** https://github.com/redhat-ai-dev/rhdh-mcp-eval
